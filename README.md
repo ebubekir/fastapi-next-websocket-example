@@ -1,0 +1,2 @@
+# FastAPI - NextJS WebSocket Example
+
